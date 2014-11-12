@@ -18,8 +18,8 @@ Period 7
 
 ### API
 #### Lev Akabas, Chris Kim
-#### Description
-#### link
+#### Search Engine for Movies
+#### https://github.com/levakabas/Lev-and-Chris.git
 
 ## Mini Projects
 
