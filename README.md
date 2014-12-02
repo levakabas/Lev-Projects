@@ -32,3 +32,6 @@ Period 7
  * intro-proj 1
   * Lev Akabas, Justin Strauss
     * 7/intro-proj1/jstrauss_lakabas
+ * todo list
+  * Lev Akabas
+    * 7/todo/levakabas 
