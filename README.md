@@ -23,7 +23,13 @@ Period 7
 
 ## Mini Projects
 
- * login
+* Javascript stupid game
+  * Lev Akabas
+    * 7/cow/levakabas 
+* todo list
+  * Lev Akabas
+    * 7/todo/levakabas  
+* login
   * Lev Akabas, Victor Gaitour
     * 7/mongoproj/Victor-Lev
  * regexp
@@ -32,6 +38,4 @@ Period 7
  * intro-proj 1
   * Lev Akabas, Justin Strauss
     * 7/intro-proj1/jstrauss_lakabas
- * todo list
-  * Lev Akabas
-    * 7/todo/levakabas 
+ 
