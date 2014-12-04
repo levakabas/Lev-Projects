@@ -32,10 +32,10 @@ Period 7
 * login
   * Lev Akabas, Victor Gaitour
     * 7/mongoproj/Victor-Lev
- * regexp
+* regexp
   * Lev Akabas, Alex Libman
     * 7/regexp/alex-lev
- * intro-proj 1
+* intro-proj 1
   * Lev Akabas, Justin Strauss
     * 7/intro-proj1/jstrauss_lakabas
  
