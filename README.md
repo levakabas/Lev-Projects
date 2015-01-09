@@ -6,6 +6,11 @@ Period 7
 
 ## Main Projects
 
+### Final Project
+#### Justin Strauss, Derek Tsui, Lev Akabas, Dennis Nenov
+#### A web app that takes input from several members in a group and suggests a meeting place
+#### https://github.com/justinstrauss/finalproj
+
 ### Name Search
 #### Veronika Azzara, Derek Tsui, Tyler Wang, Lev Akabas
 #### A search engine using the google module
